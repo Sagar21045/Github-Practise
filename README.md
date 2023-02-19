@@ -18,7 +18,9 @@ Using "br/" notation
 ##### h5 level heading
 ###### h6 level heading
 <br/>
-<p>This is a paragraph. We can use these symbols to create paragraphs.</p>
+
+
+`<p></p>`<p>This is a paragraph. We can use these symbols to create paragraphs.</p>
 <br/>
 
 ### Italic
