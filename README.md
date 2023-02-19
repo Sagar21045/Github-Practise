@@ -8,6 +8,7 @@ Using "br/" notation
 ### Horizontal Rule
 ---
 <br>
+
 ### Headings
 
 # h1 level heading
