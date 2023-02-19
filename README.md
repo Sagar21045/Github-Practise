@@ -111,13 +111,13 @@ http://www.gmail.com
 
 ---
 
-[Twitter][twitter]
-[Telegram][telegram]
+[Facebook][facebook]
+[Gmail][gmail]
 
 <!--All links are here-->
 
-[twitter]: [http://www.twitter.com]
-[telegram]: [http://www.telegram.com]
+[gmail]: [http://www.gmail.com]
+[facebook]: [http://www.facebook.com]
 
 <br/>
 
