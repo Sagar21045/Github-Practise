@@ -113,11 +113,13 @@ http://www.gmail.com
 
 [Facebook][facebook]
 [Gmail][gmail]
+[Twitter][twitter]
 
 <!--All links are here-->
 
-[gmail]: [http://www.gmail.com]
-[facebook]: [http://www.facebook.com]
+[gmail]: http://www.gmail.com
+[facebook]:http://www.facebook.com
+[twitter]: http://www.twitter.com
 
 <br/>
 
