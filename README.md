@@ -90,7 +90,7 @@ We can use backtick.
   - This is in markdown  
     1. This is ordered list
     2. This is ordered list
-    c. This is ordered list
+    3. This is ordered list
  - This is in markdown  
 
  #### Task list
