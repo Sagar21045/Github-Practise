@@ -96,7 +96,9 @@ We can use backtick.
  - [X] Task2  
  - [x] Task3
  - [ ] Task4
- - [ ] Task5
+ - [] Task5
+ - [ x ] Task6
+ - [    ] Task7
 <br/>
 
 ### Link
