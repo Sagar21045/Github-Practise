@@ -7,7 +7,7 @@ Using "br/" notation
 
 ### Horizontal Rule
 ---
-<br>
+<br/>
 
 ### Headings
 
@@ -61,7 +61,7 @@ We can use backtick.
 #### Ordered List
 
 <ol>
-<li>This is in HTML with "ol"</li>
+<li>This is in HTML with </li>
 <li>This is in HTML with "ol"</li>
 <li>This is in HTML with "ol"</li>
 <ol><li>This is in HTML with "ol"</li></ol>
@@ -69,7 +69,7 @@ We can use backtick.
 
 
 
-1. This is in Markdown
+1. This is in Markdown 
 2. This is in markdown  
    1. This is in markdown  
    - this is unordered list
