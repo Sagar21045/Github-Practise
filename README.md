@@ -156,6 +156,7 @@ http://www.gmail.com
 |CCNA|19/2/23|
 |C program|20/2/23|
 |Git/Github| 21/2/23|
+|Python|22/2/23|
 
 <br/>
 
